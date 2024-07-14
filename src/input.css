@@ -27,6 +27,6 @@ body {
   @apply -rotate-45;
 }
 
-#darkmode:chacked ~ label div.toggle-circle {
+#darkmode:checked ~ label div.toggle-circle {
   @apply translate-x-3;
 }
